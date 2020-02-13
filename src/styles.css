@@ -27,36 +27,32 @@
 /* Adds extra space around the input boxes */
 
 #mc_embed_signup .mc-field-group {
-  padding: 10px 0;
+  padding: 8px;
   display: flex;
   align-items: baseline;
   justify-content: center;
+  border: 1px solid #dae2e7;
+  border-radius: 5px;
 }
 
 #mce-EMAIL {
-  padding: 10px;
-  border: 1px solid #dae2e7;
   color: #738a94;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 400;
   user-select: text;
-  border-radius: 5px;
   width: 100%;
-  color: #243342;
+  border: 0;
+  outline: none;
 }
 
 /* Styles the subscribe button */
 
 #mc_embed_signup .button {
-  position: relative;
-  display: inline-block;
-  margin: 0 0 0 10px;
   padding: 0 20px;
-  height: 43px;
   outline: none;
   color: #fff;
+  height: 40px;
   font-size: 18px;
-  line-height: 39px;
   font-weight: 400;
   text-align: center;
   background-color: #d03a84;
