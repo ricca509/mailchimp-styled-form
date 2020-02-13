@@ -1,0 +1,64 @@
+#mc_embed_signup {
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+  color: #243342;
+  padding: 20px;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Styles the header text above the inputs */
+
+#mc_embed_signup h2 {
+  margin: 0 0 10px;
+  padding: 0;
+  font-size: 35px;
+  line-height: 1;
+  font-weight: 600;
+  text-align: center;
+}
+
+.subscribe-form-description {
+  color: #6c7888;
+  font-size: 21px;
+  line-height: 30px;
+}
+
+/* Adds extra space around the input boxes */
+
+#mc_embed_signup .mc-field-group {
+  padding: 10px 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+
+#mce-EMAIL {
+  padding: 10px;
+  border: 1px solid #dae2e7;
+  color: #738a94;
+  font-size: 18px;
+  font-weight: 400;
+  user-select: text;
+  border-radius: 5px;
+  width: 100%;
+  color: #243342;
+}
+
+/* Styles the subscribe button */
+
+#mc_embed_signup .button {
+  position: relative;
+  display: inline-block;
+  margin: 0 0 0 10px;
+  padding: 0 20px;
+  height: 43px;
+  outline: none;
+  color: #fff;
+  font-size: 18px;
+  line-height: 39px;
+  font-weight: 400;
+  text-align: center;
+  background-color: #d03a84;
+  border-radius: 5px;
+}
