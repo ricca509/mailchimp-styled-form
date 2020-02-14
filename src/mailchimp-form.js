@@ -1,4 +1,4 @@
-const markup = `
+const formMarkup = `
 <div id="mc_embed_signup">
   <form
     action="https://onefiniteloop.us4.list-manage.com/subscribe/post?u=48b30fd868f5701248886b82c&amp;id=0c4a534985"
@@ -61,6 +61,6 @@ const markup = `
 
 (() => {
   document.open();
-  document.write(markup);
+  document.write(formMarkup);
   document.close();
 })();
