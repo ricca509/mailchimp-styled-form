@@ -9,4 +9,10 @@ Nothing, really. I am serving the form so that I can make changes in a single pl
 
 ## How are the resources served?
 
-I use [raw.githack.com](https://raw.githack.com/) to serve this files from GitHub.
+I use [raw.githack.com](https://raw.githack.com/) to serve the files from this repo.
+
+## How does the final result look like
+
+This is what I ended up with, but you can follow the same pattern and style it in a different way.
+
+![Form example](example.png)
